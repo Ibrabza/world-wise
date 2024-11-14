@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "b984",
+      "cityName": "Tashkent",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2024-10-13T17:51:11.354Z",
+      "notes": "",
+      "position": {
+        "lat": "41.29844430929419",
+        "lng": "69.26879882812501"
+      }
+    },
+    {
+      "id": "40d5",
+      "cityName": "Obejo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T11:27:26.923Z",
+      "notes": "",
+      "position": {
+        "lat": "38.01695836035535",
+        "lng": "-4.768066406250001"
+      }
+    },
+    {
+      "id": "884e",
+      "cityName": "Qo’shko’pir",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2024-10-25T11:37:38.356Z",
+      "notes": "",
+      "position": {
+        "lat": "41.53487272346135",
+        "lng": "60.34790039062501"
+      }
+    },
+    {
+      "id": "9d83",
+      "cityName": "Xiva",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2024-10-25T11:37:47.333Z",
+      "notes": "",
+      "position": {
+        "lat": "41.385061030536185",
+        "lng": "60.36506652832032"
+      }
+    },
+    {
+      "id": "94e4",
+      "cityName": "Amurrio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-25T12:29:41.794Z",
+      "notes": "",
+      "position": {
+        "lat": "43.03914992266534",
+        "lng": "-2.9603648612772386"
+      }
+    },
+    {
+      "id": "9b9a",
+      "cityName": "Tashkent",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2024-10-25T19:35:36.057Z",
+      "notes": "home",
+      "position": {
+        "lat": "41.308142237080844",
+        "lng": "69.3089783191681"
+      }
+    },
+    {
+      "id": "a6d4",
+      "cityName": "Tashkent",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "2024-11-14T11:37:46.034Z",
+      "notes": "",
+      "position": {
+        "lat": "41.28312820351212",
+        "lng": "69.30814683437349"
+      }
+    }
+  ]
+}
