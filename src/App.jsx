@@ -10,14 +10,6 @@ import {UserAuthProvider} from "./Contexts/UserAuthContext.jsx";
 import ProtectRouter from "./Pages/ProtectRouter.jsx";
 import SpinnerFullPage from "./components/SpinnerFullPage.jsx";
 
-
-// import Homepage from "./pages/HomePage/Homepage.jsx";
-// import Product from "./pages/Product/Product.jsx";
-// import Pricing from "./Pages/Pricing/Pricing.jsx";
-// import Login from "./Pages/Login/Login.jsx";
-// import PageNotFound from "./Pages/PageNotFound.jsx";
-// import AppLayout from "./Pages/AppLayout/AppLayout.jsx";
-
 const Homepage = lazy(() => import("./pages/Homepage/Homepage.jsx"));
 const Product = lazy(() => import("./pages/Product/Product.jsx"));
 const Pricing = lazy(() => import("./pages/Pricing/Pricing.jsx"));
