@@ -10,12 +10,12 @@ import {UserAuthProvider} from "./Contexts/UserAuthContext.jsx";
 import ProtectRouter from "./Pages/ProtectRouter.jsx";
 import SpinnerFullPage from "./components/SpinnerFullPage.jsx";
 
-const Homepage = lazy(() => import("./pages/Homepage/Homepage.jsx"));
-const Product = lazy(() => import("./pages/Product/Product.jsx"));
-const Pricing = lazy(() => import("./pages/Pricing/Pricing.jsx"));
-const Login = lazy(() => import("./pages/Login/Login.jsx"));
-const AppLayout = lazy(() => import("./pages/AppLayout/AppLayout.jsx"));
-const PageNotFound = lazy(() => import("./pages/PageNotFound.jsx"));
+const Homepage = lazy(() => import("./Pages/Homepage/Homepage.jsx"));
+const Product = lazy(() => import("./Pages/Product/Product.jsx"));
+const Pricing = lazy(() => import("./Pages/Pricing/Pricing.jsx"));
+const Login = lazy(() => import("./Pages/Login/Login.jsx"));
+const AppLayout = lazy(() => import("./Pages/AppLayout/AppLayout.jsx"));
+const PageNotFound = lazy(() => import("./Pages/PageNotFound.jsx"));
 
 export default function App (){
     return (
